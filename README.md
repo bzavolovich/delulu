@@ -2,6 +2,8 @@
 
 # delulu
 
+![alt text](image.png)
+
 A tiny macOS menu bar app that sends fictional recruiter messages about your dream job.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-aec4cc?style=flat-square&labelColor=242627)](LICENSE)
